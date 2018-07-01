@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigFrom20", "MigFrom20\MigFrom20.csproj", "{415783CF-15A4-423E-AB65-06D0F0C47001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New21", "New21\New21.csproj", "{6D0B400C-CB4D-467E-9116-4E6CE791146A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{415783CF-15A4-423E-AB65-06D0F0C47001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415783CF-15A4-423E-AB65-06D0F0C47001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415783CF-15A4-423E-AB65-06D0F0C47001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415783CF-15A4-423E-AB65-06D0F0C47001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0B400C-CB4D-467E-9116-4E6CE791146A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0B400C-CB4D-467E-9116-4E6CE791146A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0B400C-CB4D-467E-9116-4E6CE791146A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0B400C-CB4D-467E-9116-4E6CE791146A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
